@@ -1,0 +1,15 @@
+### STAR   --runMode genomeGenerate   --runThreadN 8   --genomeDir /oak/stanford/groups/jfrydman/natalia/fabian/LUCI/project_root/references/ensembl-release113/index   --genomeFastaFiles Saccharomyces_cerevisiae.R64-1-1.dna_sm.toplevel.fa      --genomeSAindexNbases 10   --sjdbGTFfile Saccharomyces_cerevisiae.R64-1-1.113.gtf   --sjdbOverhang 64
+versionGenome	20201
+genomeFastaFiles	Saccharomyces_cerevisiae.R64-1-1.dna_sm.toplevel.fa 
+genomeSAindexNbases	10
+genomeChrBinNbits	18
+genomeSAsparseD	1
+sjdbOverhang	64
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	Saccharomyces_cerevisiae.R64-1-1.113.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	14727020 100680504
