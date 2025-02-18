@@ -26,8 +26,8 @@ This repository provides an **RNA-Seq analysis pipeline** for **APEX-labeled** y
    ```bash
    git clone https://github.com/YourUsername/yeast-apex-transcriptome.git
    cd yeast-apex-transcriptome
-2. Install Dependencies (e.g., FastQC, Trimmomatic/Cutadapt, HISAT2/STAR, DESeq2, etc.).
-3. Run Scripts in scripts/ directory to:
+2. **Install Dependencies** (e.g., FastQC, Trimmomatic/Cutadapt, HISAT2/STAR, DESeq2, etc.).
+3. **Run Scripts in scripts/ directory to**:
 Perform QC (FastQC)
 Trim reads (Trimmomatic or Cutadapt)
 Align reads (HISAT2 or STAR)
